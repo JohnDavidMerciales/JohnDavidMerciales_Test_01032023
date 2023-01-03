@@ -1,0 +1,2 @@
+# JohnDavidMerciales_Test_01032023
+CGI_Technical_Exam(Junior_Java_Developer)
